@@ -1,0 +1,28 @@
+<li><a href="javascript: void(0);" onClick="
+/////////CRIAÇÃO NEW LAYOUT/////////
+/////////////xRoxGames/////////////
+/////////www.xrox.eu5.org/////////
+
+MU Killers - New Layout
+
+Web site que uso no meu servidor. Site simples, mais bem funcional, seguro. Tem Opções de GM, SUB ADM e ADMINISTRADOR.
+
+Para mudar o nivel do painel altere:
+
+Table MEMB_INFO
+ADM = 0 (Free)
+ADM = 1 (GM)
+ADM = 2 (SUB)
+ADM = 3 (ADM)
+
+Varias opções inclusive adicionar vip/supervip. Adicionar/remover GM.
+
+É isso ae, liberei a web porque não vou mais usa-la, já que vou atualizar e colocar uma nova web.
+
+
+---------------------------------------------------------------------------------------------------------
+
+Creditos:
+ 
+MuKillers - Criação
+xRox MuOnline - Criação Novo Layout
